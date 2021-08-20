@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'wines',
     'rest_framework',
-    "corsheaders",0
+    "corsheaders",
 ]
 
 MIDDLEWARE = [
